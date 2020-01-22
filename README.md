@@ -1,2 +1,2 @@
-# bio-school
-A bio for class
+# My Bio for School
+A bio for my Coding Bootcamp class
