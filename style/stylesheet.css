@@ -1,6 +1,6 @@
 body {
   background:white);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 18px;
   line-height: 150%;
   color: darkslategrey;
@@ -58,7 +58,7 @@ h1 {
   margin: 0;
   margin-bottom: 20px;
   font-size: 28px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   color: #eee;
   text-align: center;
   background: dimgray;
@@ -70,12 +70,12 @@ a {
   
 .container {
   width: 640px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   margin: 0 auto;
   }
   
 #font {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   }
 
 #bio-image {    
@@ -84,9 +84,7 @@ a {
   margin-right: 20px;
   }
 
-.row { 
-  height: 50%; 
-}
+
 
 
   /* this is for the footer, so that I can keep the fonts from changing color */
