@@ -16,7 +16,7 @@ body {
   }
   
   header {
-    background: #d21034;
+    background: greenyellow;
   }
   
   h1 {
@@ -47,7 +47,7 @@ body {
   .container {
     /* Box-model */
     width: 1024px;
-  
+    font-family: 'Poppins', sans-serif;
     /* Positioning */
     margin: 0 auto;
   }
