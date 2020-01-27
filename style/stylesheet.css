@@ -13,14 +13,20 @@ body {
   margin: 0;
   margin-bottom: 20px;
   font-size: 12px;
-}
+  }
 
 .head {
   text-align: left;
-}
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  text-align: left;
+  background: #333;
+  }
 
-
-  header {
+header {
     background: ;
   }
   
