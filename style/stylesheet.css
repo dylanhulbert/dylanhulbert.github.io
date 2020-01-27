@@ -7,7 +7,7 @@ body {
   }
   
 
-.foot {
+#foot {
   text-align: right;
   padding: 20px 0;
   margin: 0;
@@ -15,7 +15,7 @@ body {
   font-size: 12px;
   }
 
-.head {
+#head {
   text-align: left;
   padding: 20px 0;
   margin: 0;
