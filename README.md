@@ -1,2 +1,3 @@
-# My Bio for School
-A bio for my Coding Bootcamp class
+# dylanhulbert.github.io
+This page includes a short bio, and links to my work.
+
