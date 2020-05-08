@@ -1,21 +1,26 @@
 body {
-  padding-top: 56px;
+  font-family: 'Spartan', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+p a, p a:hover{
+  color:#292b2c;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+#dylan, #portfolio, #contactMe {
+  min-height: 100vh;
+}
+
+/* font awesome */
 .fab {
-  color: white;
+  color: #292b2c;
 }
 
-.carousel-item {
-  height: 65vh;
-  min-height: 300px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-.portfolio-item {
-  margin-bottom: 30px;
+.fas {
+  color: #292b2c;
 }
