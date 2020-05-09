@@ -15,12 +15,3 @@ p a, p a:hover{
 #dylan, #portfolio, #contactMe {
   min-height: 100vh;
 }
-
-/* font awesome */
-.fab {
-  color: #292b2c;
-}
-
-.fas {
-  color: #292b2c;
-}
