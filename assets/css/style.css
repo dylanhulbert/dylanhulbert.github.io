@@ -1,11 +1,11 @@
 html {
   scroll-behavior: smooth;
+  position: relative;
 }
 
-p a, p a:hover{
-  color:#292b2c;
-  text-decoration: none;
-  font-weight: bolder;
+a {
+  color: inherit;
+  font-weight: bold;
 }
 
 #dylan, #portfolio, #contactMe {
